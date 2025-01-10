@@ -1,0 +1,45 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "QzZpao8Mw-z_N935b_ZJDXh6C2k",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NAJ_TUh2-98OuHPh7APkjCxvsxE",
+            "id": "UgwYssgaUSlW2J-JOWp4AaABAg",
+            "snippet": {
+                "channelId": "UCJ7KH5hxu9-X9qgZh6oYUcA",
+                "videoId": "JnJuperTSA0",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jsnluq7uzfRZhh32Cc7_hC-NrzI",
+                    "id": "UgwYssgaUSlW2J-JOWp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCJ7KH5hxu9-X9qgZh6oYUcA",
+                        "videoId": "JnJuperTSA0",
+                        "textDisplay": "Is this possible to sort files and folders automatically? Like in windows? In mac every time I create a new folder I have to sort it. Can\u2019t it be sorted automatically like it happens in windows? This is very frustrating and time consuming process to sort again and again.",
+                        "textOriginal": "Is this possible to sort files and folders automatically? Like in windows? In mac every time I create a new folder I have to sort it. Can\u2019t it be sorted automatically like it happens in windows? This is very frustrating and time consuming process to sort again and again.",
+                        "authorDisplayName": "@sanjitsingh3863",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/IJgYql9FLtHJpTjuO3ZV0PF7qKKWVSwT5kxq4cJdFb9eZ1u7gykMP4VINKQgr1uOAuuvLhyU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@sanjitsingh3863",
+                        "authorChannelId": {
+                            "value": "UCMS86MtGGyJGMitj8nklsew"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-10-14T05:54:26Z",
+                        "updatedAt": "2022-10-14T05:54:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            },
+            "ai_reply": "Hello there! I understand your frustration with sorting files and folders on a Mac. While the process might be a bit different from Windows, you can certainly automate it. You can set up your Finder to automatically sort your files and folders by going to '"
+        }
+    ]
+}

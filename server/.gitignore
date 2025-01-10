@@ -1,0 +1,58 @@
+# In .gitignore
+venv/
+env/
+.venv/
+
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Django migrations
+*.log
+*.sqlite3
+db.sqlite3
+migrations/
+
+# Environment variables file
+.env
+
+# Django static files
+/static/
+
+# Django media files
+/media/
+
+# IDE files
+.vscode/
+.idea/
+
+# PyCharm specific files
+*.iml
+*.ipr
+*.iws
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Virtual environment directory (if you're using virtualenv)
+venv/
+env/
+.venv/
+
+# Cache directories
+*.cache
+*.pyc
+
+# pytest cache
+.cache/
+
+# Coverage directory used by coverage.py
+.coverage
+
+# Django database backup files
+*.bak

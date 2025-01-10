@@ -1,0 +1,11 @@
+Django
+django-ninja
+rav
+django-ninja-jwt[crypto]
+pydantic[email]
+djangorestframework
+requests
+django-cors-headers
+openai
+django-redis
+django-environ
