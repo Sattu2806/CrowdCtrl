@@ -10,8 +10,9 @@ CrowdCtrl is a comprehensive content management platform designed to empower dig
 
 CrowdCtrl was built to address the needs of modern digital creators who juggle multiple platforms and require actionable insights to connect with their audience effectively. The platform combines advanced analytics, engagement tools, and content management features into an intuitive and seamless experience. Whether it’s moderating comments, researching new content ideas, tracking audience engagement, or understanding performance metrics, CrowdCtrl equips creators with everything they need to succeed.
 
+<img width="1440" alt="Screenshot 2025-01-03 at 1 10 48 PM" src="https://github.com/user-attachments/assets/94b7a16c-27ba-43c9-b04e-304a0fd45f22" />
 
-<img width="1440" alt="Screenshot 2025-01-03 at 7 56 16 AM" src="https://github.com/user-attachments/assets/a4024787-e314-47d5-b207-d0c5463e68bf" />
+
 
 
 ### Key Features
